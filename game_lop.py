@@ -4,7 +4,7 @@ from ortools.linear_solver import pywraplp
 
 def main():
     T = 1000
-    P = 20
+    P = 10
     # opening the CSV file
     with open('bgg.csv', mode='r') as file:
 
