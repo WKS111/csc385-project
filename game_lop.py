@@ -6,7 +6,7 @@ def main():
     T = 1000
     P = 10
     # opening the CSV file
-    with open('bgg.csv', mode='r', encoding="utf8") as file:
+    with open('csc385-project/bgg.csv', mode='r', encoding="utf8") as file:
 
         # reading the CSV file
         csvFile = csv.reader(file)
@@ -95,6 +95,15 @@ def main():
         print('problem solved in %d branch-and-bound nodes' % solver.nodes())
     else:
         print('the problem does not have an optimal solution.')
+    
+    # The following exports the model as a string in LP format
+    model_as_string = solver.ExportModelAsLpFormat(False)
+
+    # Save the string in a file
+    lp_file = open( 'games' + '.lp', 'w', encoding = 'utf-8')
+    lp_file.write( model_as_string )
+    lp_file.close()
+
 
 
 if __name__ == '__main__':
