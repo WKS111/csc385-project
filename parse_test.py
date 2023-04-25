@@ -4,8 +4,8 @@ import xml.etree.ElementTree as ET
 import pandas as pd
 import numpy
 
-number_of_games_start = 1
-number_of_games_end = 10
+number_of_games_start = 1001
+number_of_games_end = 3000
 search_categories = ['objectname', 'baverage', 'minplayers', 'maxplayers', 'playingtime','category','aweight']
 parse_array = []
 
@@ -46,7 +46,10 @@ def parseXML(xmlfile):
     games = tree.getroot()
   
     # create empty list for news items
-    parse_array = [search_categories]
+    if number_of_games_start == 1:
+        parse_array = [search_categories]
+    else:
+        parse_array = []
   
     # iterate news items
     for game in games:
@@ -62,23 +65,25 @@ def parseXML(xmlfile):
                 for stat in thing:
                     if stat.tag == 'ratings':
                         for rating in stat:
-                            if(rating.tag == 'bayesaverage'):
+                            if(rating.tag == 'bayesaverage') and isinstance(rating.text, str):
                                 game_arr[search_categories.index('baverage')] = float(rating.text)
 
-                            if rating.tag == 'averageweight':
+                            if rating.tag == 'averageweight' and isinstance(thing.text, str):
                                 game_arr[search_categories.index('aweight')] = float(rating.text)
                 
-            if thing.tag == 'minplayers':
+            if thing.tag == 'minplayers' and isinstance(thing.text, str):
                 game_arr[search_categories.index('minplayers')] = int(thing.text)
                 
-            if thing.tag == 'maxplayers':
+            if thing.tag == 'maxplayers' and isinstance(thing.text, str):
                 game_arr[search_categories.index('maxplayers')] = int(thing.text)
                 
-            if thing.tag == 'playingtime':
+            if thing.tag == 'playingtime' and isinstance(thing.text, str):
                 game_arr[search_categories.index('playingtime')] = int(thing.text)
                 
-            if thing.tag == 'boardgamecategory':
+            if thing.tag == 'boardgamecategory' and isinstance(thing.text, str):
                 cat_arr.append(thing.text)
+                if thing.text == 'Expansion for Base-game':
+                    game_arr = [None] * len(search_categories)
             
         game_arr[search_categories.index('category')] = cat_arr
         print(game_arr)
@@ -119,7 +124,7 @@ def main():
     # array = numpy.array(parse_array) 
     # numpy.savetxt("bgg_csv.csv", array, delimiter = ",")
     
-    with open("bgg.csv","w",newline='') as my_csv:
+    with open("bgg.csv","a",newline='') as my_csv:
         newarray = csv.writer(my_csv,delimiter=',')
         newarray.writerows(parse_array)
     

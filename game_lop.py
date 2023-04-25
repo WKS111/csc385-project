@@ -79,6 +79,7 @@ def main():
         print('time constraint =', T)
         print('game constraint =', P)
         print('objective value =', solver.Objective().Value())
+        print('# of players:',x[0].solution_value())
         print('games played:')
         time_sum = 0
         game_sum = 0
