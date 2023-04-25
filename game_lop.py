@@ -6,7 +6,7 @@ def main():
     T = 1000
     P = 10
     # opening the CSV file
-    with open('bgg.csv', mode='r') as file:
+    with open('bgg.csv', mode='r', encoding="utf8") as file:
 
         # reading the CSV file
         csvFile = csv.reader(file)
@@ -83,7 +83,7 @@ def main():
         print('games played:')
         time_sum = 0
         game_sum = 0
-        for j in range(0, num_lines):
+        for j in range(1, num_lines):
             if x[j].solution_value() == 1:
                 time_sum += float(csv_array[j][playing_time_index])
                 game_sum += 1
