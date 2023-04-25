@@ -2,7 +2,7 @@ objectname,baverage,minplayers,maxplayers,playingtime
 Die Macher,7.06374,3,5,240
 Dragonmaster,5.76721,3,4,30
 Samurai,7.22945,2,4,60
-Tal der K�nige,5.66877,2,4,60
+Tal der Könige,5.66877,2,4,60
 Acquire,7.12491,2,6,90
 Mare Mediterraneum,5.54057,2,6,240
 Cathedral,6.12483,2,2,20
@@ -18,7 +18,7 @@ MarraCash,5.98617,3,4,60
 Button Men,5.74185,2,2,5
 RoboRally,6.90858,2,8,120
 Wacky Wacky West,5.86869,2,4,45
-Full Metal Plan�te,6.02932,2,4,90
+Full Metal Planète,6.02932,2,4,90
 Gateway to the Stars,5.49973,1,7,0
 Magic Realm,6.34458,1,16,240
 Divine Right,5.81214,2,6,360
@@ -61,13 +61,13 @@ Curse of the Mummy's Tomb,5.46551,1,4,120
 Samurai: Game of Politics and Warfare in Feudal Japan,5.65594,2,8,180
 Joan of Arc,5.63515,3,6,180
 The Garden Game,0.0,2,6,30
-L�wenherz,6.36723,2,4,90
+Löwenherz,6.36723,2,4,90
 Conquest,5.63792,2,4,120
 Successors (First/Second Edition),5.80154,2,4,180
 Bollox,5.52613,2,2,20
 Big City,6.25387,2,5,60
 Civilization,7.03752,2,7,360
-Verr�ter,6.09666,3,4,60
+Verräter,6.09666,3,4,60
 Show Manager,6.20836,2,6,60
 Apples to Apples,5.65274,4,10,30
 Falling,5.48648,4,8,5
@@ -84,12 +84,791 @@ Quebec 1759,5.87854,2,2,60
 Victory: World War II,5.64999,2,4,120
 Torres,6.79103,2,4,60
 Blue vs. Gray,5.73461,2,4,120
-Star Wars: Episode 1 � Clash of the Lightsabers,5.67184,2,2,20
+Star Wars: Episode 1 – Clash of the Lightsabers,5.67184,2,2,20
 Paths of Glory,7.29618,2,2,480
 El Grande,7.5571,2,5,120
 Union Pacific,6.66927,2,6,90
-Igel �rgern,5.81695,2,6,30
+Igel Ärgern,5.81695,2,6,30
 Broadsides & Boarding Parties,5.63864,2,2,60
 Conquest of the Empire,5.73856,2,6,240
 Axis & Allies,6.28376,2,5,180
 Fortress America,6.13305,2,4,180
+Detroit-Cleveland Grand Prix,5.97278,2,6,60
+Klunker,5.72643,3,5,30
+Titan,6.41128,2,6,240
+Extrablatt,5.68293,3,4,90
+Colossal Arena,6.48722,2,5,60
+Mystery Rummy: Jack the Ripper,6.413,2,4,45
+Peaceful Resistance,0.0,2,3,30
+TAMSK,6.02118,2,2,20
+Wettstreit der Baumeister,5.59428,3,4,45
+Auf Achse,5.84638,2,6,60
+Rheinländer,6.01029,3,5,45
+Condottiere,6.61972,2,6,45
+Mit List und Tücke,5.66371,4,6,60
+Ransom,5.52915,2,6,45
+I'm the Boss!,6.32732,3,6,60
+Guillotine,6.39897,2,5,30
+Ta Yü,6.13145,2,4,45
+Modern Art,7.28862,3,5,45
+Kingdoms,6.31862,2,4,45
+Hoity Toity,6.22463,2,5,45
+Dune,7.02294,2,6,180
+Quo Vadis?,6.02502,3,5,45
+Green Thumb Cards,0.0,2,5,45
+Primordial Soup,6.50528,3,4,90
+Money!,6.10849,3,5,30
+The Really Nasty Horse Racing Game,5.6993,2,6,90
+Princess Ryan's Star Marines,5.48815,1,6,120
+Take it Easy!,6.15719,1,8,20
+Iron Dragon,6.14857,2,6,240
+Caesar & Cleopatra,6.10726,2,2,60
+Frischfleisch,5.54649,2,6,120
+Cape Horn,5.60557,3,5,45
+Kontor,5.62223,2,4,60
+Robin Hood,5.49654,3,6,30
+Pass the Bomb,5.62873,2,10,20
+Hoax,5.54463,3,12,45
+Pit,6.19167,3,8,90
+Andromeda,5.84722,3,5,60
+Vino,5.75028,3,5,90
+Wortelboer,0.0,2,4,30
+Elfenwizards,5.53249,3,6,90
+Metropolis,5.63927,2,5,90
+Buy Low Sell High,5.69167,2,4,60
+Crude: The Oil Game,5.94192,2,4,90
+Die Glücksritter,5.51216,3,6,60
+PitchCar,6.98185,2,8,30
+Piratenbillard,5.68876,2,4,15
+Mü & More,6.3207,2,8,60
+Take 5!,6.05364,2,6,60
+Union vs. Central,5.56879,2,2,360
+Was sticht?,5.8718,3,4,60
+Wildlife Adventure,5.8001,2,6,60
+Eurorails,6.23329,2,6,240
+Elfengold,5.87043,2,6,120
+The Awful Green Things From Outer Space,6.05752,2,2,90
+Balderdash,6.18221,2,6,60
+"Before I Kill You, Mister Spy...",5.45923,2,6,30
+Black Box,5.7736,1,2,20
+Black Death,5.50741,2,6,120
+Dicke Kartoffeln,5.54902,2,6,120
+Empire Builder,6.32844,2,6,180
+En Garde,5.95373,2,2,30
+Family Business,5.85238,2,6,30
+Chess,6.99637,2,2,0
+For Sale,7.11879,3,6,30
+Formula Dé,6.65343,2,10,120
+T-Rex,5.49775,3,5,45
+What the Heck?,6.01638,2,5,20
+Give Me the Brain!,5.64327,3,8,15
+Advanced Civilization,7.03483,2,8,480
+Mole Hill,5.54836,2,2,15
+Nuba,5.5214,2,2,10
+Pool Position,5.51501,2,5,30
+Risk,5.45527,2,6,120
+Knights of Charlemagne,5.73557,2,4,30
+Stonehenge,5.55068,2,2,15
+Devil Bunny Needs a Ham,5.4574,2,5,30
+Split,5.53659,2,6,30
+Go,7.31167,2,2,180
+Die Siedler von Nürnberg,5.95196,3,4,90
+Dolce Vita,5.55754,3,5,30
+Nicht die Bohne!,5.7943,3,6,45
+Fill or Bust,5.5499,2,10,30
+Groo: The Game,5.72147,2,4,45
+NASCAR Champions,5.49337,2,5,30
+Kremlin,6.35798,3,6,75
+HellRail: Second Perdition,5.52454,3,4,75
+Buried Treasure,5.55998,2,4,30
+Manhattan,6.40273,2,4,45
+Entdecker,5.88879,2,4,60
+The Rose King,6.34378,2,4,30
+Targui,5.73536,2,4,120
+Skworms,0.0,2,4,30
+Stephenson's Rocket,6.35533,2,4,60
+Jalape-NO!,5.55095,3,9,45
+Twitch,5.54791,3,6,15
+Ex & Hopp,5.49746,2,6,30
+Don Pepe,5.64173,3,6,30
+Times to Remember,5.58368,2,10,45
+Café International,5.91479,2,4,60
+Tichu,7.30148,4,4,60
+Atlanteon,5.57018,2,2,30
+A la carte,6.09204,2,4,30
+High-Bid,5.542,2,4,25
+Volle Hütte,5.5525,3,5,30
+High Society,6.90255,3,5,30
+Ikusa,6.53663,2,5,360
+Space Beans,5.75335,2,6,40
+Expedition,5.98125,2,6,90
+History of the World,6.58881,3,6,270
+Icehouse,5.75092,3,5,20
+Isi,5.52344,2,2,30
+Knightmare Chess,5.8758,2,2,60
+Lunch Money,5.51905,2,4,20
+King of the Elves,5.77461,2,6,60
+Merchant of Venus,6.44605,1,6,180
+Geronimo,5.51175,1,5,480
+Serenissima,6.2062,2,4,120
+Hannibal: Rome vs. Carthage,7.11086,2,2,200
+Blackbeard,5.84938,1,4,240
+Wooden Ships & Iron Men,6.26308,2,2,300
+"Wagram: The Peace of Vienna, 5-6 July 1809",5.56006,1,2,90
+Britannia,6.62652,3,5,300
+Age of Exploration,5.54585,1,6,180
+Junta,6.33241,2,7,240
+Advanced Squad Leader,7.01701,2,2,480
+Circus Maximus,6.05132,2,10,120
+Politika,5.48863,3,7,0
+Gloria Picktoria,5.80375,2,5,45
+Blood Royale,5.74329,3,5,240
+Lifeboats,6.18993,3,6,90
+Colonial Diplomacy,5.67895,2,7,360
+The Battle of Borodino: Napoleon in Russia 1812,5.57922,2,2,180
+Empires in Arms,6.26376,2,7,12000
+"Jena-Auerstadt: The Battle for Prussia, 14 October 1806",5.51295,2,2,150
+Mississippi Queen,6.05084,3,5,45
+Kill Doctor Lucky,5.95794,3,8,45
+Fluxx,5.56379,2,6,30
+Atlantic Storm,5.71922,2,6,60
+Starship Troopers: Prepare For Battle!,5.5223,2,4,60
+Olympia 2000 (v. Chr.),5.57006,2,5,30
+Manitou,5.60403,2,4,45
+Enemy in Sight,5.69414,2,8,120
+Intrigue,5.99362,3,5,45
+Tycoon,5.83001,2,4,90
+Cheops,5.58622,2,5,45
+Svea Rike,5.68553,2,5,120
+It's Mine!,5.57404,3,5,30
+Downtown,5.5569,3,6,60
+Africa 1880,5.51248,3,6,120
+Guerilla,5.62584,3,6,120
+Extinction,5.48694,2,6,60
+La Guerre de l'Empereur,5.52881,2,7,240
+Res Publica,5.62871,3,5,60
+Catan Card Game,6.51179,2,2,120
+The Very Clever Pipe Game,5.70456,2,4,20
+Neue Spiele im alten Rom,5.63567,2,7,60
+Ostindiska kompaniet,5.43723,2,5,120
+Vikingatid,5.51698,2,6,300
+Advanced Third Reich,5.83471,2,6,2480
+Lords of the Sierra Madre (Second Edition),5.56044,2,8,240
+Monsters Ravage America,5.54542,1,4,90
+Machiavelli,6.02938,4,8,480
+Bazaar,5.98546,2,6,45
+Rossyïa 1917,5.56387,2,5,300
+Chariot Lords,5.62028,3,4,360
+Gold Digger,5.55095,2,5,20
+Courtisans of Versailles,5.51821,3,8,120
+Attacke,5.51578,3,5,30
+Bamboleo,5.84032,2,7,30
+Keydom,5.5551,2,5,90
+Europa 1945-2030,5.57269,3,6,120
+Medieval Merchant,5.96435,2,6,90
+Stadens Nyckel,5.48847,3,6,120
+Lang lebe der König!,5.48878,3,5,60
+De Bellis Antiquitatis: Quick Play Wargame Rules with Army Lists for Ancient and Medieval Battles,5.94612,2,6,300
+Tutankhamen,5.74316,2,6,30
+Campanile,5.60165,2,5,30
+Forum Romanum,5.75298,2,6,45
+Koalition,5.59757,4,10,90
+Evergreen,5.50441,2,6,30
+Der Fliegende Holländer,5.58062,3,6,60
+Die Siedler von Catan: Historische Szenarien,5.84769,3,4,90
+Candidate,5.49961,2,6,90
+Santa Fe,5.65753,2,5,70
+Arabana-Ikibiti,5.52748,2,2,20
+Wizard's Quest,5.76821,2,6,180
+Time Agent,5.64263,2,6,360
+Landlord!,5.63125,2,6,10
+Big Boss,5.76265,2,6,90
+Highlanders,5.56454,3,5,90
+Bagh Chal,5.58965,2,2,20
+Chase,5.66926,2,2,45
+The Mob,5.59287,3,6,60
+Looney Leo,0.0,0,0,0
+Top It,5.50478,2,4,20
+Scrabble,6.14955,2,4,90
+The Mole in the Hole,5.76815,2,4,30
+Tonga Bonga,5.68962,3,4,45
+Anno 1452,5.54329,2,4,90
+Ponte Vecchio,5.50589,3,5,90
+Catan: Seafarers,6.91494,3,4,90
+Loopin' Louie,6.51684,2,4,10
+Damn the Torpedoes!,5.48797,2,6,120
+Russian Front,5.91538,2,2,1200
+Block Mania,5.68387,2,2,180
+Vernissage,5.57677,3,5,60
+Waterworks,5.49253,2,5,30
+Advance to Boardwalk,5.46145,2,4,60
+Breakthru,5.54483,2,2,15
+Jumpin,5.49816,2,2,15
+Circus Flohcati,6.16042,2,5,15
+Bargain Hunter,5.89747,3,4,45
+Quiddler,5.84595,1,8,30
+Frank's Zoo,6.2182,3,7,60
+Hong Kong,5.5178,2,2,15
+Twins,5.56581,3,6,30
+Classic Art,5.68571,3,5,60
+Prairie Railroads,5.53525,3,5,120
+Fishy,5.50114,3,6,30
+Merchants of the Middle Ages,6.00626,2,4,120
+Halunken & Spelunken,5.51182,3,4,30
+Hattrick,5.64227,4,6,30
+Trumpet,5.6548,2,6,45
+Inkognito: The Card Game,5.47793,3,5,30
+Stick 'Em,6.49645,3,8,60
+Das letzte Paradies,5.53831,3,5,30
+Ab die Post!,5.47968,3,6,45
+Excape,5.95558,2,6,30
+Bucket Brigade,5.63752,3,5,30
+Quests of the Round Table,5.47973,2,4,60
+Hare & Tortoise,6.27263,2,6,45
+Elefantenparade,5.52232,2,4,20
+Cat Blues,5.63709,2,6,30
+Samarkand,5.78169,2,5,40
+Tricks,5.5008,3,5,30
+Viva Pamplona!,5.65902,2,6,45
+Overthrone,5.47574,3,6,90
+Relationship Tightrope,5.73658,3,5,30
+5ive Straight,5.59201,2,9,20
+El Grande: König & Intrigant,5.98299,2,5,90
+Mystery Rummy: Murders in the Rue Morgue,5.87445,2,4,40
+Schotten Totten,7.0388,2,2,20
+Wrott & Swindlers,5.52758,3,6,90
+Colorado County,5.55876,2,4,60
+6 Billion,5.4812,2,5,120
+DruidenWalzer,5.60522,2,2,45
+Neighbors,0.0,2,6,40
+Lancashire Railways,5.58077,3,6,120
+Express,5.66239,2,6,60
+Polarity,5.88794,2,4,20
+X Pasch,5.53631,3,6,90
+Heimlich & Co.,6.11426,2,7,30
+Turf Horse Racing,5.55195,3,6,60
+TurfMaster,6.09049,2,8,75
+Pirateer,5.48384,2,4,15
+Corruption,5.54393,3,7,45
+Finale,5.52293,2,2,30
+Die Mauer,5.5759,3,6,30
+Ocean,5.48239,2,6,20
+Brawl,5.80714,2,7,15
+Dinosaurs of the Lost World,5.69456,1,4,90
+Kahuna,6.40658,2,2,40
+Der dreizehnte Holzwurm,5.53053,2,6,45
+Diskwars,5.57397,2,8,90
+Wildlife Safari,6.22076,2,5,30
+Tom Clancy's Politika,5.36382,2,8,90
+Shanghai,5.48572,3,6,30
+Gold Connection,5.57572,2,4,60
+Elk Fest,5.8143,2,2,15
+Worm Up!,5.61976,3,5,20
+Meteo,5.49956,2,4,90
+Zoon,5.48955,2,2,30
+Dschungel,5.47647,2,4,30
+D'raf,5.5196,3,5,45
+Yukon Company,5.51857,4,6,120
+Die Erben von Hoax,5.53497,3,8,45
+Around the World in 80 Days,5.5679,2,6,60
+Espresso,5.51479,2,6,60
+A to Z,5.5668,2,4,30
+Edison & Co.,5.33082,2,4,45
+Rail Baron,5.94788,3,6,240
+1830: Railways & Robber Barons,7.23556,2,7,360
+1835,5.90659,3,7,360
+1856: Railroading in Upper Canada from 1856,6.31782,3,6,300
+1870: Railroading Across the Trans Mississippi from 1870,6.16825,2,6,360
+Thunder's Edge,5.5426,3,5,300
+The Battle of the Bulge,5.67777,2,2,120
+Grass,5.64629,2,6,60
+Galopp Royal,5.54296,3,6,45
+Magalon,5.53514,2,4,60
+Asterix: Das Kartenspiel,5.53659,2,5,30
+Alhambra: The Card Game,5.81831,2,6,45
+6 nimmt!,6.82648,2,10,45
+Shark,5.9535,2,6,90
+Yucata',5.56102,2,4,30
+Canyon,5.7198,3,6,45
+Master Labyrinth,5.93814,2,4,30
+Scotland Yard,6.35607,3,6,45
+Zoff in Buffalo,5.61666,2,5,45
+Filthy Rich,5.7423,2,5,60
+Um Reifenbreite,6.19879,2,4,90
+Code 777,6.13303,2,5,60
+Escape from the Hidden Castle,5.86863,2,8,30
+Die Osterinsel,5.52779,3,4,30
+Avalanche,5.52161,2,6,30
+The Great Balloon Race,5.57863,2,8,30
+Octi,5.66531,2,4,30
+Beutelschneider,5.50708,3,4,30
+Mummy Rummy,5.45219,2,5,30
+Bohnanza: La Isla Bohnita,5.59999,2,7,90
+Tante Tarantel,5.54846,3,5,30
+Am Fuß des Kilimandscharo,5.50955,2,4,45
+Jumbo Grand Prix,5.52365,2,5,30
+Sherlock Holmes: The Card Game,5.63712,3,8,60
+Ausgebremst,5.65119,3,6,45
+Railway Rivals,5.69757,2,6,90
+Freibeuter,5.5739,2,4,45
+Esels-Rennen,5.49856,2,6,15
+Magic: The Gathering,7.38927,2,2,20
+Billabong,5.92587,2,4,30
+Zankapfel,5.52577,3,6,60
+Inkognito,6.17412,3,5,90
+Bohnanza Erweiterungs-Set,5.97131,3,7,45
+Dump,0.0,0,0,0
+In Teufels Küche,5.534,2,4,60
+Road to the White House,5.56888,3,6,240
+Totem,5.49303,2,4,90
+DungeonQuest,6.17753,1,4,60
+Olé!,5.62487,3,8,30
+Cold War,5.55904,4,4,180
+Taj Mahal,6.89339,2,5,90
+Mr. President,5.62699,2,4,60
+The Broadway Game,5.54916,2,6,120
+Citadels,6.95514,2,8,60
+Bambuti,5.52587,2,2,20
+Age of Arguments,0.0,4,4,120
+Carolus Magnus,6.35342,2,4,60
+Sky Runner,5.50027,2,5,30
+Diplomacy,6.7502,2,7,360
+Stratego Legends,5.55527,2,8,60
+Galloping Pigs,5.5866,2,5,30
+Barnyard Buddies,5.51917,2,8,15
+Power,5.55143,2,4,30
+Stake Your Claim,5.51725,2,6,15
+Pacal,5.53616,2,2,30
+Warangel,5.63555,2,6,60
+Web of Power,6.62985,3,5,60
+Aladdin's Dragons,6.35641,3,5,90
+Ave Caesar,6.28733,2,6,30
+Time Pirates,5.50661,3,6,60
+Dilemma,5.48495,3,5,30
+Vampire,5.60134,3,5,30
+Sufferin' Spirits,0.0,2,4,120
+Arbos,5.64175,1,8,30
+MARK,5.51565,2,4,60
+Dschungelrennen,5.51899,2,5,30
+Bretonenboule,0.0,2,4,15
+Through the Desert,6.88052,2,5,45
+Die Verbotene Stadt,5.53791,2,4,60
+Goldener Drache,5.51513,2,5,30
+The Big Cheese,5.56991,3,6,30
+Cartel,5.61755,2,4,90
+Blue Max,5.973,2,6,60
+The Reef,5.54863,2,2,60
+Eschnapur,5.51811,3,5,60
+Silverton,6.05893,1,6,180
+Holiday!,5.52404,2,8,40
+WarChest,0.0,2,2,0
+True Colors,5.62111,3,6,30
+6-Tage Rennen,5.65066,3,8,60
+Shark Bait,0.0,0,0,0
+Cat vs. Mouse,0.0,2,4,30
+Mush,5.51828,2,6,60
+Axis & Allies: Europe,5.99212,2,4,210
+Crokinole,7.72499,2,4,30
+Desperados,5.50618,2,4,30
+Pisa,5.54679,3,5,45
+Abalone,6.21864,2,2,30
+GIPF,6.48107,2,2,60
+ZÈRTZ,6.68473,2,2,60
+Charlemagne,5.51152,2,4,90
+Entenrallye,5.51676,2,6,60
+Merchants of Amsterdam,6.03955,3,5,60
+Labyrinth: The Card Game,5.51885,2,6,30
+N.Y. Chase,5.70578,3,6,45
+Power Barons,5.49224,3,4,30
+Visionary,5.60055,4,8,60
+Ice Blocks,0.0,2,2,0
+Manager,5.55994,3,6,60
+Dampfross,5.7011,2,6,90
+Sisimizi,5.58809,2,4,45
+Das Motorsportspiel,5.82923,2,12,120
+Animocrazy,5.50042,4,10,30
+Kaleidos,5.86949,2,12,60
+Flohzirkus,0.0,2,4,0
+Buck Rogers: Battle for the 25th Century Game,5.75563,2,6,120
+Aerodrome,5.58811,2,12,60
+Barbarossa,5.8362,3,4,60
+Battle Cry,6.52512,2,2,45
+Bus,6.79751,3,5,120
+Chez Geek,5.57948,2,5,60
+La Città,6.5948,2,5,120
+The Princes of Florence,7.25909,2,5,100
+7 Safari,5.48439,2,6,20
+Laguna,5.52583,2,4,30
+Der weiße Lotus,5.57672,3,6,80
+Metro,6.14355,2,6,30
+Flußpiraten,5.53439,3,6,90
+Silberzwerg,5.65239,2,4,60
+Doolittle & Waite,5.5263,2,8,30
+Die Seidenstraße,5.49504,2,7,60
+Port Royal,5.55225,3,4,60
+Wongar,5.62806,3,5,90
+Quartier Latin,0.0,4,6,45
+Rage,5.81231,2,10,45
+Maestro,5.52713,2,4,30
+Terrain Game,0.0,2,6,60
+Papua,5.53442,3,6,60
+Battle Cattle,5.49191,2,8,60
+Grand Prix,5.53905,3,6,60
+Devil Take the Hindmost,5.62493,3,6,30
+Das Kollier,5.49736,3,6,30
+Illuminati: Y2K,5.82081,2,6,180
+Parts Unknown,5.55631,4,10,90
+Protzen,0.0,2,6,30
+Field of Fire,0.0,2,2,0
+Tile Chess,5.55397,2,6,90
+Kampf um Rom,5.50123,3,4,180
+The El Grande Expansions,5.93943,2,5,90
+Kardinal,5.56835,2,4,20
+Up Front,6.73006,2,2,60
+Sumera,5.51215,2,4,30
+Wiz-War,6.09687,2,4,60
+Mille Bornes,5.59978,2,6,45
+Spades,6.1898,4,4,60
+Favoriten,5.57846,2,5,60
+Sleuth,6.34447,3,7,45
+Escape from Elba,5.49152,3,6,60
+Trolley Car,0.0,2,6,30
+El Grande: Grandissimo,5.69861,2,5,90
+Stack 21,0.0,2,4,30
+Die Weinhändler,5.48888,3,6,60
+Take Two,5.51213,2,7,30
+Animal Poker,5.60586,4,8,60
+Putsch,5.49937,3,6,120
+Verrat!,5.49834,4,4,60
+Banana Republic,5.48484,2,5,30
+Pico 2,5.5493,2,2,5
+Honor of the Samurai,5.6043,3,6,60
+Siesta,5.60724,2,4,60
+Ferkelei,0.0,2,5,45
+Knights of the Rainbow,5.47755,2,6,45
+Ironman Football,5.52017,2,8,180
+Kippit,5.5326,2,2,30
+Overboard,5.50458,2,2,15
+Rubik's Race,5.61249,2,2,5
+Cube Fusion,0.0,2,2,15
+What's That on My Head?,0.0,3,6,45
+Alles Futsch,5.49433,2,5,45
+MLB Showdown,5.56098,2,2,40
+The Bottle Imp,6.3115,2,4,30
+We the People,6.16352,2,2,120
+25 Words or Less,5.73467,4,99,35
+Change!,5.48044,2,8,30
+Swashbuckler: A Game of Swordplay and Derring-do,5.65703,2,6,90
+Quoridor,6.37664,2,4,15
+Business,5.52247,2,6,45
+War and Peace,5.91036,2,6,180
+Royal Tank Corps,5.53029,1,2,0
+Q-Turn,5.45974,2,4,20
+Double Quick,5.5325,2,4,20
+Daytona 500,6.05311,2,4,70
+Cloud 9,6.02592,3,6,30
+Elixir,5.50014,3,8,60
+River Dragons,6.1247,2,6,30
+Formula Motor Racing,5.95105,3,6,20
+Blindside,0.0,4,4,0
+The Stock Car Championship Racing Card Game,5.64285,2,12,20
+Hera and Zeus,6.11176,2,2,30
+American Megafauna,5.70395,1,4,360
+Oodles,5.55766,3,10,20
+Deadlands: Doomtown Range Wars,5.55312,2,8,90
+Shipwrecked,5.53677,2,4,30
+Bosworth,5.53964,2,4,60
+Pirate's Plunder,5.46254,2,6,30
+Mystick Domination,5.54374,2,5,30
+Vox Populi,5.45438,3,6,90
+Thieves of Bagdad,5.52235,3,6,90
+Fairy Meat,5.51801,2,100,60
+Zero Down,5.78896,2,5,20
+X-Net,5.50241,3,6,120
+Shit!,5.49255,2,6,20
+Castle,5.76857,2,5,30
+Münchhausen,5.51694,3,8,30
+Riffifi,5.52674,3,5,15
+Where's Bob's Hat?,5.62781,3,5,45
+Siege,5.4889,2,2,30
+Shift,0.0,2,4,30
+Quackshot,5.54589,2,4,10
+Stump,5.51416,2,4,30
+Refugium,0.0,2,4,20
+Sternenhimmel,5.67231,3,5,30
+Plague & Pestilence,5.65283,2,6,45
+Starship Troopers,5.88371,1,2,120
+Bull Run: The First Major Battle of the American Civil War,5.57874,2,2,240
+Star Traders,5.58104,2,6,120
+J.U.M.P. Into the Unknown,5.48673,1,4,120
+4th Dimension,5.48794,2,2,45
+Ninja Wars,5.48901,2,4,30
+Would You Rather...?,5.17118,3,8,20
+X-it!,0.0,2,6,20
+Minion Hunter,5.55326,1,6,60
+Dune,5.52027,2,4,90
+Quarto,6.55281,2,2,20
+Timeline,0.0,2,2,45
+Monopoly: The Card Game,5.49807,2,6,30
+Marrakesh,5.54252,2,2,45
+Dr. Jekyll & Mr. Hyde,5.75324,3,4,60
+Cabale,5.54814,2,4,60
+Manchu: The Taiping Rebellion – 1852-1868,5.51864,2,2,240
+Dubble Kross,0.0,3,10,120
+Singapore,5.53767,2,2,120
+Timbuktu,6.054,3,5,60
+Wizard Kings,5.95964,2,7,150
+Fibonacci,5.52576,2,2,30
+The Big Idea,5.72498,3,6,45
+Conspiracy,5.67755,3,4,90
+Gother Than Thou,5.40798,3,5,20
+HeroQuest,6.82517,2,5,90
+Battle Masters,5.87599,2,2,60
+A House Divided: War Between the States 1861-65,6.28347,2,2,240
+Wabbit Wampage,5.548,2,4,120
+Roman Civil War,5.55609,2,2,120
+Montgolfiere,5.57342,2,6,45
+Caesar in Gallia: Conquest on the Ancient Frontier,5.53916,2,2,300
+Frederick the Great: The Campaigns of The Soldier King 1756-1759,5.77268,2,4,240
+When Tigers Fight,5.52941,2,2,300
+Holy War: Afghanistan,5.53259,2,2,180
+Dragons of Glory,5.52959,2,2,180
+Snit's Revenge!,5.60876,2,2,20
+Elfenroads,5.69486,2,6,120
+Blood Bowl (Third Edition),6.95695,2,2,180
+Nuclear War,5.87899,2,6,60
+Talisman,6.02514,2,6,240
+Escape from Colditz,6.16851,2,6,180
+Pizza Party,5.45937,2,4,15
+Galaxy: The Dark Ages,5.67624,2,5,90
+Tyranno Ex,5.66975,2,4,120
+Fast Food Franchise,5.6367,2,5,180
+Oregon Trail,5.4917,1,8,120
+Over the Edge,0.0,2,2,20
+The Uncanny X-Men Alert Adventure Game,5.59091,2,4,60
+Chill: Black Morn Manor,5.57831,2,6,120
+Triple Threat Baseball!,0.0,2,6,60
+Chinese Civil War,5.50473,2,2,180
+The Sun Never Sets: Three Campaigns of the British Empire,5.53553,2,2,180
+Breakout: Normandy,6.23668,2,2,240
+Escape from New York,5.49761,2,4,60
+Don't Make Me Laugh,0.0,2,16,45
+Don't Make Me Laugh Jr.,0.0,2,5,30
+Strange But True?,0.0,2,10,45
+Hollywood's Reel Schpeel,0.0,4,30,60
+San Francisco,5.60045,3,5,90
+Matheeno,0.0,2,2,20
+Ultimate Soccer of America,0.0,2,2,30
+Rio Grande:  The Battle of Valverde,5.48962,2,2,180
+Trajan,5.58242,2,2,180
+Germania,5.53811,2,2,180
+Wicked Words,0.0,4,16,30
+War of Resistance,5.54906,2,2,0
+"The Game of France, 1940: German Blitzkrieg in the West",5.57851,2,2,180
+Bitter Woods: The Battle of the Bulge,5.6397,2,2,240
+Trax,5.71394,2,2,10
+Dutch Mountains,0.0,2,2,0
+Shocks & Scares,0.0,2,6,60
+Minos,5.60775,2,4,120
+Maul of America,5.44991,2,6,120
+Panzerkrieg: von Manstein & HeeresGruppe Süd,5.61095,2,2,240
+Domain,5.54675,2,2,15
+Thunder at Cassino,5.77326,1,2,360
+Black Vienna,5.79972,3,6,60
+Lunatix Loop,5.52857,4,6,90
+Balmy Balloonists,0.0,2,6,60
+Turning Point: Stalingrad,5.95673,1,2,1800
+Battle Line,7.19506,2,2,30
+The Great Brain Robbery,5.49794,3,7,60
+Formula C Minus,5.49166,2,6,0
+Mad Gab,5.26392,2,12,45
+Space Walk,5.57867,2,5,45
+Regatta,5.69059,2,6,60
+Keywood,5.53692,2,5,120
+Keytown,5.55478,2,5,60
+Star Trek Red Alert!,5.5428,2,8,90
+Loot,6.09669,2,8,20
+Kings and Castles,5.57906,2,4,90
+Ausbrecher AG,5.57514,2,6,20
+Beim Zeus!,5.48495,3,6,90
+Buddel Bande,0.0,2,4,30
+Die Tafelrunde,5.50218,3,4,45
+Remmi Demmi,5.50043,4,9,30
+Auction America: The Trivia Game for Any Collector,0.0,2,4,60
+Big Battle,0.0,2,2,120
+Tabloid Teasers,5.51404,3,6,45
+"Win, Place & Show",5.85476,3,6,120
+Letter Head,5.51977,1,9,10
+Discretion,5.52635,2,8,120
+Dog Eat Dog,5.47471,2,6,90
+Maxi Bour$e,5.41796,2,6,90
+Palermo,5.51797,3,5,60
+Tales of the Arabian Nights,5.95593,1,6,120
+Focus,5.77984,2,4,45
+Terra Turrium,5.52383,2,4,90
+Löwendynastie,5.51746,3,6,30
+Megiddo,5.50892,2,3,20
+Yahtzee Deluxe Poker,5.61586,2,6,20
+Foil,5.49987,2,4,60
+Dragonlance,5.47665,2,6,60
+Shanghai Trader,5.58637,3,6,300
+Flucht aus Mangrovia,5.48384,2,6,30
+Ace of Aces: Handy Rotary Series,6.05185,2,2,20
+The Hills Rise Wild!,5.59073,2,4,180
+Camlyn's Destiny,0.0,2,4,180
+Crimean War Battles,5.56472,2,2,120
+Taipei: China Invades,5.50802,2,2,120
+Dragonhunt,5.52494,2,6,120
+Thunder Road,5.84168,2,4,45
+Buffy the Vampire Slayer: The Game,5.9923,2,5,90
+West Riding,5.51982,3,6,180
+Pipeline: The Oil Game,5.48838,2,4,30
+Amoeba,5.50704,2,4,0
+Rummikub,6.26436,2,4,60
+Goosebumps: Terror in the Graveyard Game,5.47879,2,4,45
+Aquarius,5.73771,2,5,30
+Chrononauts,5.95795,1,6,30
+2038: Tycoons of the Asteroid Belt,5.77467,3,6,360
+Quacksalbe,5.52008,3,5,30
+Axiom,5.65713,2,2,15
+La Trel,5.50139,2,2,60
+Carcassonne,7.2995,2,5,45
+The Lord of the Rings,6.56335,2,5,90
+Hijara,5.50101,2,2,40
+Screaming Eagles,5.56731,2,4,20
+Cartagena,6.43465,2,5,45
+Attila,5.9367,2,5,45
+Wizards,5.63695,1,6,240
+Battle of the Bands,5.51745,2,4,45
+FIB-OR-NOT?,0.0,2,20,60
+Schrille Stille,5.76163,3,6,90
+For the People,6.50787,2,2,360
+Chronology,5.80655,2,8,30
+Election,5.56411,3,6,120
+New England Railways,5.5862,2,6,120
+Corsairs,5.61595,2,4,60
+Razzia,5.62315,3,8,30
+Circus Minimus,5.58631,2,7,60
+Mausoleum,5.45318,3,5,20
+Feudal,5.71881,2,6,90
+Tip Tap,5.51272,3,6,45
+Golf Masters,5.47381,2,2,90
+Pop Belly,5.48576,2,4,25
+...und tschüss!,5.63671,4,6,30
+Doge,5.7814,3,4,45
+Java,6.45741,2,4,120
+"New York, New York",5.50883,2,4,30
+Titanic: Der Mythos,5.49248,2,5,20
+Blindes Huhn,5.4897,3,6,20
+Illuminati,5.84609,2,6,120
+Scotland the Brave,5.50745,2,2,180
+Weapons & Warriors:  Castle Combat Set,5.57095,2,99,30
+Mage Knight,5.70536,2,4,60
+Landslide,5.55814,2,4,90
+"Lie, Cheat & Steal",5.4698,2,6,90
+Morisi,5.60634,2,4,45
+Atlantis,0.0,0,0,0
+Bongo!,5.62759,2,8,15
+Empires of the Ancient World,5.7347,3,5,180
+Fire,5.52039,2,5,20
+M,5.70895,2,6,30
+Offline,5.5086,2,4,45
+Pythago,0.0,1,6,60
+Roads & Boats,6.9081,1,4,240
+Tennis Masters,5.51176,2,2,40
+Troia,5.5074,2,4,60
+Wyatt Earp,6.38592,2,4,45
+Tacara,5.51827,3,10,60
+Derby,5.51159,3,5,60
+Ivanhoe,6.01703,2,5,45
+Way Out West,5.67134,3,5,120
+Der Garten des Sonnenkönigs,5.51576,2,5,60
+Real Action Stockcar Championship,5.54067,1,20,90
+Cranium,5.57745,4,16,60
+Ad Mania,0.0,2,4,60
+Smuggle,0.0,2,6,90
+LifeLinks,0.0,1,8,10
+APBA Pro Baseball,5.6848,1,2,30
+Stir Crazy,0.0,6,12,180
+Dear Abby,0.0,3,4,60
+Initial Reaction,0.0,2,6,45
+Movie Mania,5.47169,2,4,60
+City,5.50564,2,6,30
+Meuterer,6.36329,3,4,60
+Hamsterrolle,6.19946,2,4,40
+Nightmare Productions,6.64034,2,5,60
+Vagabondo,5.50462,2,6,30
+Abilene,5.52595,3,6,45
+Beheaded,0.0,2,30,30
+Tally Ho!,5.8787,2,2,30
+Saturn,5.62139,2,4,30
+Kunst Stücke,5.57798,2,5,60
+Empires of the Middle Ages,5.79467,1,6,360
+Pacific Victory: War in the Pacific 1941-45,5.74414,2,2,240
+High Bohn,5.68269,3,5,45
+Battle Platform Antilles,5.48738,1,1,20
+Mystery of the Abbey,6.31088,3,6,90
+Pete the Pirate,5.51994,2,4,30
+Rack-O,5.65511,2,4,45
+Ultimate Outburst,5.57343,2,0,60
+Breakaway Rider,5.69416,2,6,20
+Werewolf,6.15316,8,24,60
+Catan: Cities & Knights,7.17005,3,4,150
+Lift Off,5.46941,2,4,30
+Gerüchteküche,5.48039,3,7,20
+The Great Dalmuti,6.31193,4,8,60
+Böse Buben,5.496,2,4,20
+Corner,5.52261,2,4,0
+Top Race,6.00667,2,6,45
+New Orleans Big Band,5.52263,3,6,90
+Die Kette von Saba,5.49408,3,7,60
+Australian Rails,5.79294,2,6,240
+The Fury of Dracula,6.00978,2,4,180
+1825 Unit 1,5.69053,2,5,180
+Enchanted Forest,5.60488,2,6,60
+Star Wars: The Queen's Gambit,6.5774,2,4,120
+Karawane,5.54188,3,5,45
+Turbo Taxi,5.69681,2,4,30
+Snail's Pace,5.49461,2,6,60
+Ligretto,5.91845,2,4,10
+Mag·Blast,5.55567,2,6,60
+Nametrain,0.0,2,6,45
+Rolazone,0.0,2,2,30
+Trivia for Dummies,5.49334,3,4,20
+Dao,5.47341,2,2,10
+Twixt,6.08792,2,4,30
+Four Dragons,5.69212,3,4,30
+Football Strategy,5.66205,2,4,150
+Pony Express,5.48891,2,6,60
+Super Giant Monster Showdown,5.52199,2,9,60
+Azteca,5.52874,2,4,240
+PanzerZug,5.51284,2,6,30
+Orcz,5.49093,2,4,45
+Luftschiff,5.55915,1,2,60
+Grapple,0.0,2,6,10
+ZOKI,0.0,1,6,40
+Contango,0.0,2,6,90
+The Gardens of the Alhambra,5.75755,2,4,60
+Kapitän Wackelpudding,5.57149,2,5,30
+Ben Hurt,5.5145,4,8,60
+Kommissar X,0.0,2,6,30
+Seven Deadly Sins,0.0,2,7,90
+The Keep,5.50359,3,6,60
+The Powerpuff Girls: Saving the World Before Bedtime,5.52835,2,4,30
+Al Cabohne,5.67111,1,2,60
+Amoeba Wars,5.60214,2,6,150
+Tangoes,5.52944,1,2,10
+Name Burst,5.53146,3,10,30
+Corner the Market,0.0,2,6,120
+Babel,6.26455,2,2,60
+Kingmaker,6.05624,2,7,240
+Zapp Zerapp,5.62141,2,4,30
+1848,5.49165,2,2,0
+90 Grad,5.54593,2,2,15
+Alcazar,5.50607,2,2,30
+An den Ufern des Nils,5.58992,2,5,60
+Auf Trab im Sulkydrom,0.0,2,8,30
+Svea Rike: Batalj,5.48536,2,5,180
+Canaletto,5.49253,3,4,45
+Panda Monium,5.49096,3,6,20
+Corona,5.521,2,10,45
