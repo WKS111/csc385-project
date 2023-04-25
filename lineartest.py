@@ -1,7 +1,6 @@
 from ortools.linear_solver import pywraplp
 from ortools.init import pywrapinit
 
-
 def main():
     # Create the linear solver with the GLOP backend.
     solver = pywraplp.Solver.CreateSolver('GLOP')

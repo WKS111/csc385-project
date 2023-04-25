@@ -1,12 +1,12 @@
 import csv
 from ortools.linear_solver import pywraplp
-
+#import parse_test as parse_vars
 
 def main():
     T = 1000
     P = 20
     # opening the CSV file
-    with open('BGG Top 100.csv', mode='r') as file:
+    with open('bgg.csv', mode='r') as file:
 
         # reading the CSV file
         csvFile = csv.reader(file)
