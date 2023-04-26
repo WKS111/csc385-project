@@ -1,12 +1,14 @@
 import csv
 from ortools.linear_solver import pywraplp
+from ast import literal_eval
 #import parse_test as parse_vars
 
 def main():
     T = 1000
     P = 10
+    W = 20
     # opening the CSV file
-    with open('bgg.csv', mode='r', encoding="utf8") as file:
+    with open('BGG Top 100.csv', mode='r', encoding="utf8") as file:
 
         # reading the CSV file
         csvFile = csv.reader(file)
@@ -23,8 +25,8 @@ def main():
         num_lines = len(csv_array)
 
         indexDict = {}
-        for i, category in enumerate(csv_array[0]):
-            indexDict[category] = i
+        for i, cat in enumerate(csv_array[0]):
+            indexDict[cat] = i
 
         solver = pywraplp.Solver.CreateSolver('SCIP')
         if not solver:
@@ -42,6 +44,8 @@ def main():
         min_players_index = indexDict['minplayers']
         max_players_index = indexDict['maxplayers']
         playing_time_index = indexDict['playingtime']
+        category_index = indexDict['category']
+        aweight_index = indexDict['aweight']
 
         for i in range(1, num_lines):
             solver.Add(x[0] - float(csv_array[i]
@@ -58,10 +62,37 @@ def main():
             [time_list[j] * x[j] for j in range(num_lines)]
         solver.Add(sum(constraint_expr) <= T)
         
+        weight_list = []
+        for i in range(1, num_lines):
+            weight_list.append(float(csv_array[i][aweight_index]))
+        weight_list.insert(0, 0)
+
+        constraint_expr = \
+            [weight_list[j] * x[j] for j in range(num_lines)]
+        solver.Add(sum(constraint_expr) <= W)
+        
         constraint_expr = \
             [x[j] for j in range(num_lines)]
         solver.Add(sum(constraint_expr) <= P)
+        
+        #Category Constraints
+        category_dict = {}
+        for i in range(1, num_lines):
+            for cat in literal_eval(csv_array[i][category_index]):
+                if cat in category_dict:
+                    category_dict[cat].append(i)
+                else:
+                    category_dict[cat] = [i]
 
+        for cat1 in category_dict:
+            for cat2 in category_dict:
+                if cat1 != cat2:
+                    constraint_expr1 = \
+                        [x[j] for j in category_dict[cat1]]
+                    constraint_expr2 = \
+                        [x[k] for k in category_dict[cat2]]
+                    solver.Add(sum(constraint_expr1) <= sum(constraint_expr2) + 1)
+        
         objective_list = []
         for i in range(1, num_lines):
             objective_list.append(float(csv_array[i][baverage_index]))

@@ -5,7 +5,7 @@ import pandas as pd
 import numpy
 
 number_of_games_start = 20001
-number_of_games_end = 340000
+number_of_games_end = 30000
 search_categories = ['objectname', 'baverage', 'minplayers', 'maxplayers', 'playingtime','category','aweight']
 parse_array = []
 
@@ -16,25 +16,26 @@ def loadGame(id):
   
     # creating HTTP response object from given url
     resp = requests.get(url)
-  
+    
+    if resp.status_code == 200:
     # saving the xml file
-    with open('bgg.xml', 'ab') as f:
-        
-        content = resp.content
-        
-        if(id != number_of_games_start):
-            content = content[70:]
-        
-        if(id != number_of_games_end):
-            content = content[:-15]
+        with open('bgg.xml', 'ab') as f:
             
-        #print(content)
-        f.write(content)
+            content = resp.content
+            
+            if(id != number_of_games_start):
+                content = content[70:]
+            
+            if(id != number_of_games_end):
+                content = content[:-15]
+            
+            #print(content)
+            f.write(content)
         
-    # with open('bgg2.xml', 'ab') as f:
-        
-    #     content = resp.content
-    #     f.write(content)
+        # with open('bgg2.xml', 'ab') as f:
+            
+        #     content = resp.content
+        #     f.write(content)
           
   
 def parseXML(xmlfile):
