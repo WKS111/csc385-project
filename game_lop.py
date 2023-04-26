@@ -8,7 +8,7 @@ def main():
     P = 10
     W = 20
     # opening the CSV file
-    with open('BGG Top 100.csv', mode='r', encoding="utf8") as file:
+    with open('bgg.csv', mode='r', encoding="utf8") as file:
 
         # reading the CSV file
         csvFile = csv.reader(file)
@@ -22,11 +22,19 @@ def main():
                 newList.append(line)
             csv_array.append(newList)
 
+        csv_array = csv_array[:101]
         num_lines = len(csv_array)
 
         indexDict = {}
         for i, cat in enumerate(csv_array[0]):
             indexDict[cat] = i
+
+        baverage_index = indexDict['baverage']
+        min_players_index = indexDict['minplayers']
+        max_players_index = indexDict['maxplayers']
+        playing_time_index = indexDict['playingtime']
+        category_index = indexDict['category']
+        aweight_index = indexDict['aweight']
 
         solver = pywraplp.Solver.CreateSolver('SCIP')
         if not solver:
@@ -40,18 +48,17 @@ def main():
                 csv_array[j][indexDict['objectname']]))
         print('number of variables =', solver.NumVariables())
 
-        baverage_index = indexDict['baverage']
-        min_players_index = indexDict['minplayers']
-        max_players_index = indexDict['maxplayers']
-        playing_time_index = indexDict['playingtime']
-        category_index = indexDict['category']
-        aweight_index = indexDict['aweight']
+        maxPlayers = 0
+        for game in csv_array[1:]:
+            gameMax = int(game[max_players_index])
+            if gameMax > maxPlayers:
+                maxPlayers = gameMax
 
         for i in range(1, num_lines):
             solver.Add(x[0] - float(csv_array[i]
                        [min_players_index]) * x[i] >= 0)
             solver.Add(x[0] <= float(
-                csv_array[i][max_players_index]) + P - P * x[i])
+                csv_array[i][max_players_index]) + maxPlayers - maxPlayers * x[i])
 
         time_list = []
         for i in range(1, num_lines):
@@ -59,7 +66,7 @@ def main():
         time_list.insert(0, 0)
 
         constraint_expr = \
-            [time_list[j] * x[j] for j in range(num_lines)]
+            [time_list[j] * x[j] for j in range(1, num_lines)]
         solver.Add(sum(constraint_expr) <= T)
         
         weight_list = []
@@ -68,11 +75,11 @@ def main():
         weight_list.insert(0, 0)
 
         constraint_expr = \
-            [weight_list[j] * x[j] for j in range(num_lines)]
+            [weight_list[j] * x[j] for j in range(1, num_lines)]
         solver.Add(sum(constraint_expr) <= W)
         
         constraint_expr = \
-            [x[j] for j in range(num_lines)]
+            [x[j] for j in range(1, num_lines)]
         solver.Add(sum(constraint_expr) <= P)
         
         #Category Constraints
@@ -100,7 +107,7 @@ def main():
 
         objective = solver.Objective()
         objective.SetCoefficient(x[0], 0)
-        for j in range(num_lines):
+        for j in range(1, num_lines):
             objective.SetCoefficient(x[j], objective_list[j])
         objective.SetMaximization()
 
@@ -125,7 +132,7 @@ def main():
         print('problem solved in %d iterations' % solver.iterations())
         print('problem solved in %d branch-and-bound nodes' % solver.nodes())
     else:
-        print('the problem does not have an optimal solution.')
+        print('the problem is infeasible.')
     
     # The following exports the model as a string in LP format
     model_as_string = solver.ExportModelAsLpFormat(False)
