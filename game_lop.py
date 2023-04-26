@@ -6,7 +6,7 @@ def main():
     T = 1000
     P = 10
     # opening the CSV file
-    with open('csc385-project/bgg.csv', mode='r', encoding="utf8") as file:
+    with open('bgg.csv', mode='r', encoding="utf8") as file:
 
         # reading the CSV file
         csvFile = csv.reader(file)
