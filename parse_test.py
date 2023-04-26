@@ -4,8 +4,8 @@ import xml.etree.ElementTree as ET
 import pandas as pd
 import numpy
 
-number_of_games_start = 10001
-number_of_games_end = 20000
+number_of_games_start = 20001
+number_of_games_end = 340000
 search_categories = ['objectname', 'baverage', 'minplayers', 'maxplayers', 'playingtime','category','aweight']
 parse_array = []
 
