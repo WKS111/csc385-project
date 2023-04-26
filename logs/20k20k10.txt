@@ -1,0 +1,22 @@
+game 20001 added
+game 20002 added
+game 20003 added
+game 20004 added
+game 20005 added
+game 20006 added
+game 20007 added
+game 20008 added
+game 20009 added
+game 20010 added
+['Krimi Total Fall 1: Der Duft des Mordes', 0.0, 8, 9, 180, ['Murder/Mystery', 'Party Game'], 0.0]
+['Krimi Total Fall 2: Im Schatten der Premiere', 0.0, 8, 9, 180, ['Bluffing', 'Deduction', 'Murder/Mystery', 'Party Game'], 2.6667]
+['Pit Stop', 0.0, 2, 4, 15, ['Racing'], 0.0]
+[None, 0.0, None, None, None, ['Ancient', 'Expansion for Base-game', 'Print & Play', 'Territory Building'], 2.5]
+['Sushi Express', 5.47425, 3, 6, 30, ['Card Game'], 1.4]
+['Strat-Ops', 0.0, 2, 6, 0, ['Economic', 'Negotiation', 'Wargame', 'World War II'], 0.0]
+['Menschen, Würfel, Temperamente', 0.0, 2, 4, 45, ['Racing'], 0.0]
+[None, 0.0, None, None, None, ['Expansion for Base-game', 'Science Fiction', 'Wargame'], 3.5]
+['Oh Scrap!', 0.0, 3, 6, 30, ['Card Game'], 0.0]
+['This Game Sucks', 0.0, 3, 6, 30, ['Humor'], 1.3333]
+Array length: 8
+parse_test successful for 20001 20010

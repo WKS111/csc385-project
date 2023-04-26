@@ -1,0 +1,22 @@
+game 20011 added
+game 20012 added
+game 20013 added
+game 20014 added
+game 20015 added
+game 20016 added
+game 20017 added
+game 20018 added
+game 20019 added
+game 20020 added
+[None, 0.0, None, None, None, ['Expansion for Base-game', 'Science Fiction', 'Wargame'], 4.0]
+[None, 0.0, None, None, None, ['Expansion for Base-game', 'Science Fiction', 'Wargame'], 0.0]
+[None, 0.0, None, None, None, ['Expansion for Base-game', 'Science Fiction', 'Wargame'], 4.0]
+['Vino! The exciting game of wine', 0.0, 2, 4, 90, ['Educational', 'Racing', 'Trivia'], 2.0]
+[None, None, None, None, None, [], None]
+['Sensuous Exciting Experiences', 0.0, 2, 2, 120, ['Mature / Adult'], 0.0]
+['Fractie', 0.0, 2, 4, 60, ['Political'], 0.0]
+['Aloha', 5.49423, 2, 5, 45, ['Territory Building'], 2.1905]
+["General Glen's: Combat Rules for Toy Soldiers", 0.0, 2, 2, 300, ['Miniatures', 'World War II'], 0.0]
+['Totentanz', 0.0, 2, 2, 0, ['Card Game'], 0.0]
+Array length: 6
+parse_test successful from 20011 to 20020

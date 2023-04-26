@@ -1,0 +1,1347 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+					<boardgame objectid="20001">
+			<yearpublished>2004</yearpublished>
+			<minplayers>8</minplayers>
+			<maxplayers>9</maxplayers>
+			<playingtime>180</playingtime>
+			<minplaytime>180</minplaytime>
+			<maxplaytime>180</maxplaytime>
+			<age>18</age>
+
+							<name primary="true" sortindex="1">Krimi Total Fall 1: Der Duft des Mordes</name>
+									
+			<description>Translation - &amp;quot;The smell of murder&amp;quot;&lt;br/&gt;&lt;br/&gt;This Essen 2005 release could be a fresh start for the &amp;quot;murder/mystery games&amp;quot;, that were quiet popular in the eighties in germany.&lt;br/&gt;&lt;br/&gt;All players (4 male, 4 female + 1 m/f) should be dressed up and act out their role to solve the mystery, because one of the guests is the murderer (wich is the only person, who&amp;acute;s allowed to lie).&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/IFzLxu_Mb3QZDibBG49vWw__thumb/img/ygIA0s4bShHBkTsHe5JzfLVgwbE=/fit-in/200x150/filters:strip_icc()/pic96138.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/IFzLxu_Mb3QZDibBG49vWw__original/img/Jh6P3BXT9wkfrxDg6YNnHRuD2ko=/0x0/filters:format(jpeg)/pic96138.jpg</image>
+						
+												<boardgameartist objectid="3">(Uncredited)</boardgameartist>
+															<boardgamemechanic objectid="2073">Acting</boardgamemechanic>
+															<boardgameversion objectid="106502">First edition</boardgameversion>
+																																				<boardgamepublisher objectid="4616">JMCreative</boardgamepublisher>
+															<boardgamedesigner objectid="6052">Jörg Meißner</boardgamedesigner>
+															<boardgamecategory objectid="1040">Murder/Mystery</boardgamecategory>
+															<boardgamecategory objectid="1030">Party Game</boardgamecategory>
+																						<boardgamemechanic objectid="2028">Role Playing</boardgamemechanic>
+															<boardgameversion objectid="363610">Second edition</boardgameversion>
+															<boardgamefamily objectid="11537">Series: KRIMI total (JMCreative)</boardgamefamily>
+															<boardgamemechanic objectid="2027">Storytelling</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="9+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>21</usersrated>
+					<average>7.39524</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0.875854</stddev>
+					<median>0</median>
+					<owned>35</owned>
+					<trading>0</trading>
+					<wanting>1</wanting>
+					<wishing>1</wishing>
+					<numcomments>7</numcomments>
+					<numweights>2</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+					<boardgame objectid="20002">
+			<yearpublished>2005</yearpublished>
+			<minplayers>8</minplayers>
+			<maxplayers>9</maxplayers>
+			<playingtime>180</playingtime>
+			<minplaytime>180</minplaytime>
+			<maxplaytime>180</maxplaytime>
+			<age>18</age>
+
+							<name primary="true" sortindex="1">Krimi Total Fall 2: Im Schatten der Premiere</name>
+									
+			<description>Translation : &amp;quot;In the shade of the first night&amp;quot;&lt;br/&gt;&lt;br/&gt;This Essen 2005 release could be a fresh start for the &amp;quot;murder/mystery games&amp;quot;, that were quiet popular in the eighties in germany.&lt;br/&gt;&lt;br/&gt;All players (4 male, 4 female + 1 m/f) should be dressed up and act out their role to solve the mystery, because one of the guests is the murderer (wich is the only person, who&amp;acute;s allowed to lie).&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/SC7jOPN5c1shJPIPq3v0VA__thumb/img/1A6qlnNDVxVHolxqLlNQ44tmDNg=/fit-in/200x150/filters:strip_icc()/pic96137.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/SC7jOPN5c1shJPIPq3v0VA__original/img/e6-_qAaiMv5sX8SL6gMpuIcaees=/0x0/filters:format(jpeg)/pic96137.jpg</image>
+						
+												<boardgamemechanic objectid="2073">Acting</boardgamemechanic>
+															<boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+															<boardgamecategory objectid="1039">Deduction</boardgamecategory>
+															<boardgameversion objectid="106524">German edition</boardgameversion>
+																																											<boardgamepublisher objectid="4616">JMCreative</boardgamepublisher>
+															<boardgamedesigner objectid="6052">Jörg Meißner</boardgamedesigner>
+															<boardgamecategory objectid="1040">Murder/Mystery</boardgamecategory>
+																						<boardgamecategory objectid="1030">Party Game</boardgamecategory>
+																						<boardgamemechanic objectid="2028">Role Playing</boardgamemechanic>
+															<boardgamefamily objectid="11537">Series: KRIMI total (JMCreative)</boardgamefamily>
+															<boardgamemechanic objectid="2027">Storytelling</boardgamemechanic>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="9+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>14</usersrated>
+					<average>7.89286</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.36511</stddev>
+					<median>0</median>
+					<owned>28</owned>
+					<trading>0</trading>
+					<wanting>2</wanting>
+					<wishing>2</wishing>
+					<numcomments>7</numcomments>
+					<numweights>3</numweights>
+					<averageweight>2.6667</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+					<boardgame objectid="20003">
+			<yearpublished>1972</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>15</playingtime>
+			<minplaytime>15</minplaytime>
+			<maxplaytime>15</maxplaytime>
+			<age>0</age>
+
+							<name  sortindex="1">Motor Racing</name>
+							<name primary="true" sortindex="1">Pit Stop</name>
+									
+			<description>Pit Stop is a Formula One themed racing game where players roll the dice and move along the race track to be the first across the finish line. Various &amp;quot;Chance Spaces&amp;quot; add some variety by forcing players to re-roll the dice and refer to a &amp;quot;Chance Table&amp;quot; which has a variety of moves that can affect any of the players in the game. Players may also vary the progress of the game by changing lanes to try and block another player or by moving to an inside lane to decrease the total number of spaces until the finish.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/0-D3fnwIF337bvcXBAt5dQ__thumb/img/B6wGv1C0o91bRHfnviw6QCVE2o4=/fit-in/200x150/filters:strip_icc()/pic96141.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/0-D3fnwIF337bvcXBAt5dQ__original/img/1szydC6N3oY67km8mNmalRG4JT8=/0x0/filters:format(jpeg)/pic96141.jpg</image>
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgameversion objectid="104537">First edition</boardgameversion>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+															<boardgamefamily objectid="6206">Sports: Auto Racing</boardgamefamily>
+															<boardgamepublisher objectid="95">Waddingtons</boardgamepublisher>
+															<boardgameversion objectid="525812">Waddingtons English second edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>16</usersrated>
+					<average>5.28125</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.41387</stddev>
+					<median>0</median>
+					<owned>29</owned>
+					<trading>1</trading>
+					<wanting>0</wanting>
+					<wishing>3</wishing>
+					<numcomments>4</numcomments>
+					<numweights>3</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+					<boardgame objectid="20004">
+			<yearpublished>2005</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>5</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">China: Erweiterung</name>
+									
+			<description>This small expansion for China was available for free at the ABACUSSPIELE booth during Essen 2005.  It is now freely available for download from Michael Schacht's website (see the Links section below).&lt;br/&gt;&lt;br/&gt;With this expansion, bonus chips (in three colors) are randomly placed on house spaces at non-intersection points -- two per region. Players placing houses at these spots take the bonus chips. At the end of the game, points are awarded to whoever holds a majority of each color chip.&lt;br/&gt;&lt;br/&gt;Expands:&lt;br/&gt;&lt;br/&gt;    China&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/5XAMSKdfkZ3xzeuO7xQYKg__thumb/img/WdENplh4-1CV7aX-DWP8Ev8dmgQ=/fit-in/200x150/filters:strip_icc()/pic98016.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/5XAMSKdfkZ3xzeuO7xQYKg__original/img/ATfS92c0NNMHMOciD-jT_XXKtVo=/0x0/filters:format(jpeg)/pic98016.jpg</image>
+						
+												<boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+															<boardgamepublisher objectid="29">ABACUSSPIELE</boardgamepublisher>
+															<boardgamecategory objectid="1050">Ancient</boardgamecategory>
+															<boardgamemechanic objectid="2080">Area Majority / Influence</boardgamemechanic>
+																						<boardgamefamily objectid="64960">Components: Map (Continental / National scale)</boardgamefamily>
+																													<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgameversion objectid="28743">German edition</boardgameversion>
+																						<boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+															<boardgamefamily objectid="58463">History: Early Imperial China</boardgamefamily>
+															<boardgamemechanic objectid="2081">Network and Route Building</boardgamemechanic>
+															<boardgamemechanic objectid="2041">Open Drafting</boardgamemechanic>
+															<boardgamecategory objectid="1120">Print &amp; Play</boardgamecategory>
+															<boardgamedesigner objectid="86">Michael Schacht</boardgamedesigner>
+															<boardgameartist objectid="86">Michael Schacht</boardgameartist>
+															<boardgamefamily objectid="16809">Series: Web of Power / China</boardgamefamily>
+															<boardgamepublisher objectid="296">Spiele aus Timbuktu</boardgamepublisher>
+															<boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+																						<boardgameexpansion objectid="18100" inbound="true">China</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>28</usersrated>
+					<average>6.62857</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.48801</stddev>
+					<median>0</median>
+					<owned>186</owned>
+					<trading>14</trading>
+					<wanting>10</wanting>
+					<wishing>17</wishing>
+					<numcomments>27</numcomments>
+					<numweights>4</numweights>
+					<averageweight>2.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+					<boardgame objectid="20005">
+			<yearpublished>2005</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>8</age>
+
+							<name primary="true" sortindex="1">Sushi Express</name>
+									
+			<description>The players pilot their maneuverable, little delivery cars around the city in order to serve as many customers as possible. When you pass by in your Sushi Express, you may choose a customer card. When doing so, you&amp;rsquo;d like to get as many different types of cards as possible, as that&amp;rsquo;s how you get the most victory points. But don&amp;rsquo;t ignore the tips - whoever has the least at the end of the game gets minus points.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/8U6e7iCiPL9ni94HOk2cAQ__thumb/img/Zc65bZz39IgS9KHXtdZlmXIL7MQ=/fit-in/200x150/filters:strip_icc()/pic102631.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/8U6e7iCiPL9ni94HOk2cAQ__original/img/tB0dsUzv5jqsV_UrlA7HaxJF0Oo=/0x0/filters:format(jpeg)/pic102631.jpg</image>
+						
+												<boardgamepublisher objectid="29">ABACUSSPIELE</boardgamepublisher>
+															<boardgamemechanic objectid="2014">Betting and Bluffing</boardgamemechanic>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgamefamily objectid="9470">Continents: Asia</boardgamefamily>
+															<boardgameversion objectid="29885">English/French/German/Italian edition</boardgameversion>
+															<boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+															<boardgamefamily objectid="64227">Food &amp; Drink: Sushi</boardgamefamily>
+																																																																																																			<boardgamemechanic objectid="2661">Push Your Luck</boardgamemechanic>
+																						<boardgamedesigner objectid="86">Michael Schacht</boardgamedesigner>
+															<boardgameartist objectid="86">Michael Schacht</boardgameartist>
+															<boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+																						<boardgamefamily objectid="5841">Theme: Food / Cooking</boardgamefamily>
+													
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>187</usersrated>
+					<average>5.26631</average>
+					<bayesaverage>5.47425</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="22971" bayesaverage="5.47425" />
+												
+							
+														<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="2802" bayesaverage="5.46264" />
+												
+											</ranks>
+					
+					<stddev>1.40084</stddev>
+					<median>0</median>
+					<owned>313</owned>
+					<trading>24</trading>
+					<wanting>5</wanting>
+					<wishing>27</wishing>
+					<numcomments>79</numcomments>
+					<numweights>25</numweights>
+					<averageweight>1.4</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+					<boardgame objectid="20006">
+			<yearpublished>1976</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Strat-Ops</name>
+									
+			<description>Spirit Racing and Entertainments were a small UK publisher in the seventies and early eighties based in Croydon, Surrey which transformed into the Spirit Games shops in Burton-on-Trent (they have three shops on one street!).&lt;br/&gt;&lt;br/&gt;Strat-Ops is a combination of a roll-and-move monopoly-like outer track where types of actions are determined, and an abstract wargame between two sets of opposing allies played in the centre of the board where the actions are applied.&lt;br/&gt;&lt;br/&gt;Players have factories to produce Heavy Bombers, Medium Bombers, Day Fighters, Fuel and Munitions, Tanks and Air Defence - and these are used to attack the enemy's armies, factories and convoys.&lt;br/&gt;&lt;br/&gt;You win the game by having all your enemy players in one of the following states:&lt;br/&gt;(a) Capital city is captured&lt;br/&gt;(b) All factories are destroyed&lt;br/&gt;(c) All Fuel and Munitions factories are destroyed and no reserves are left&lt;br/&gt;&lt;br/&gt;From the 24-page rulebook:&lt;br/&gt;Strat-ops is an ingenious and exciting game originally devised by a British airman during the Second World War. It is played with 2, 4, or 6 players and is suitable for anyone aged ten upwards. players need luck as well as skill, so the game can be a challenge for the enthusiast or simply an absorbing evening's fun.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/CdG4zQcKaigoWcFFiKuM_w__thumb/img/WKd12mZXXmilv3SpVw1iPC3uBVo=/fit-in/200x150/filters:strip_icc()/pic96772.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/CdG4zQcKaigoWcFFiKuM_w__original/img/ixt1AisAdfRG5B1Pep-ikrGohYI=/0x0/filters:format(jpeg)/pic96772.jpg</image>
+						
+												<boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+															<boardgamedesigner objectid="45907">A. R. Bootherstone</boardgamedesigner>
+															<boardgamecategory objectid="1021">Economic</boardgamecategory>
+															<boardgameversion objectid="108328">English edition</boardgameversion>
+															<boardgamecategory objectid="1026">Negotiation</boardgamecategory>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+															<boardgamepublisher objectid="4535">Spirit Racing and Entertainments</boardgamepublisher>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamecategory objectid="1049">World War II</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>4</usersrated>
+					<average>5.375</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.08253</stddev>
+					<median>0</median>
+					<owned>10</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>3</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+					<boardgame objectid="20007">
+			<yearpublished>1991</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>4</maxplayers>
+			<playingtime>45</playingtime>
+			<minplaytime>45</minplaytime>
+			<maxplaytime>45</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Menschen, Würfel, Temperamente</name>
+									
+			<description>Menschen, W&amp;uuml;rfel, Temperamente is a german game, inspired by Pachisi. Each pawn has a different temperament. The sanguine type is allowed to jump over other pawns. The apathetic pawn can move backwords. The choleric beats every pawn in every field he passes by. The melancholic just behaves like a standard Pachisi-pawn. Although it's primarily a dice rolling game, the different types of pawns/temperaments add some tactical elements to it.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/U6iMzL289CpOF-tvqZyndg__thumb/img/LUfjuHVEhELnGBBSv0pSVT07zn4=/fit-in/200x150/filters:strip_icc()/pic4562352.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/U6iMzL289CpOF-tvqZyndg__original/img/CczDONGAHLJIfg4GCD0d8uBDlpc=/0x0/filters:format(jpeg)/pic4562352.jpg</image>
+						
+												<boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+															<boardgameversion objectid="443932">German edition</boardgameversion>
+																						<boardgamepublisher objectid="7346">Homo Ludens</boardgamepublisher>
+															<boardgamedesigner objectid="6054">Timm Lossen</boardgamedesigner>
+															<boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+															<boardgamecategory objectid="1031">Racing</boardgamecategory>
+															<boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+															<boardgamefamily objectid="4214">Traditional Games: Pachisi / Ludo</boardgamefamily>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>6</usersrated>
+					<average>3.16667</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.11476</stddev>
+					<median>0</median>
+					<owned>26</owned>
+					<trading>1</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>3</numcomments>
+					<numweights>1</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+					<boardgame objectid="20008">
+			<yearpublished>1996</yearpublished>
+			<minplayers>2</minplayers>
+			<maxplayers>12</maxplayers>
+			<playingtime>0</playingtime>
+			<minplaytime>0</minplaytime>
+			<maxplaytime>0</maxplaytime>
+			<age>12</age>
+
+							<name primary="true" sortindex="1">Star Fleet Battles: Module G1 – Master Annex File</name>
+									
+			<description>Part of the Star Fleet Battles Captain's Edition line.&lt;br/&gt;&lt;br/&gt;From the back of the cover:&lt;br/&gt;&lt;br/&gt;Star Fleet Battles Master Annex File: All of the juicy details of every ship and fighter. Completely updated. Many sections have been reorganized for easier player access.&lt;br/&gt;&lt;br/&gt;Master Ship Chart: Over a thousand ships, listed by crew, marines, BPV, spare shuttles, rules references, year in service, turn mode, explosion strength, command rating, and more. Integrates all products to date (except X-Ships and Simulator Ships) completely updated.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/Q33ZubzjFmrBTYPRQge6dQ__thumb/img/cn_vKJOn_3seSQsZtKcNsHcnQEo=/fit-in/200x150/filters:strip_icc()/pic96178.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/Q33ZubzjFmrBTYPRQge6dQ__original/img/XOw7NED1mteYY6k0KoNizbuFNAM=/0x0/filters:format(jpeg)/pic96178.jpg</image>
+						
+												<boardgamedesigner objectid="675">Stephen V. Cole</boardgamedesigner>
+															<boardgamecategory objectid="1042">Expansion for Base-game</boardgamecategory>
+															<boardgamefamily objectid="21">Game: Star Fleet Battles</boardgamefamily>
+															<boardgamemechanic objectid="2026">Hexagon Grid</boardgamemechanic>
+															<boardgamedesigner objectid="5927">Steven P. Petrick</boardgamedesigner>
+															<boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+															<boardgamefamily objectid="95">Setting: Star Fleet Universe</boardgamefamily>
+															<boardgamepublisher objectid="352">Task Force Games</boardgamepublisher>
+															<boardgamefamily objectid="7392">TV Shows: Star Trek (various)</boardgamefamily>
+															<boardgamecategory objectid="1019">Wargame</boardgamecategory>
+															<boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+															<boardgameexpansion objectid="29663" inbound="true">Star Fleet Battles: Captain&#039;s Edition Basic Set</boardgameexpansion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="10">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="11">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="12">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="12+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>20</usersrated>
+					<average>7.3</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+							
+														<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>1.81246</stddev>
+					<median>0</median>
+					<owned>77</owned>
+					<trading>3</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>7</numcomments>
+					<numweights>2</numweights>
+					<averageweight>3.5</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+					<boardgame objectid="20009">
+			<yearpublished>0</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">Oh Scrap!</name>
+									
+			<description>This game offers players a chance to show off their scrapbooking prowess in a fast paced card game that takes about 30 minutes to play. Players attempt to build a perfect scrapbook layout by mixing Title, Photos, Embellishments and other elements. But beware! The other players are working hard on their own designs and everyone is limited to the same box of supplies. As you try to gather the needed supplies for your masterpiece your &amp;quot;helpful&amp;quot; friends will be providing you with their cast-offs and useless items.&lt;br/&gt;&lt;br/&gt;In the end you will each have a complete scrapbook design. Will yours inspire envy or pity?&lt;br/&gt;&lt;br/&gt;</description>
+
+						
+												<boardgamedesigner objectid="3">(Uncredited)</boardgamedesigner>
+															<boardgamepublisher objectid="4525">Alleged Enterprises</boardgamepublisher>
+															<boardgamecategory objectid="1002">Card Game</boardgamecategory>
+															<boardgameversion objectid="188546">English edition</boardgameversion>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>1</usersrated>
+					<average>6</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>0</stddev>
+					<median>0</median>
+					<owned>1</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>0</wishing>
+					<numcomments>0</numcomments>
+					<numweights>0</numweights>
+					<averageweight>0</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+					<boardgame objectid="20010">
+			<yearpublished>2004</yearpublished>
+			<minplayers>3</minplayers>
+			<maxplayers>6</maxplayers>
+			<playingtime>30</playingtime>
+			<minplaytime>30</minplaytime>
+			<maxplaytime>30</maxplaytime>
+			<age>0</age>
+
+							<name primary="true" sortindex="1">This Game Sucks</name>
+									
+			<description>Prepare to do battle with the greatest foe you have ever faced. It's more insidious than a secret agent, more cunning than a cyber-ninja and more devastating than than a three headed dragon with a hangover.&lt;br/&gt;&lt;br/&gt;This Game Sucks places you in the battle of your life as you match wits with a bumbling GameMaster and his poorly planned plot lines. As you struggle to free yourself from the warped, twisted, and totally lame RPG you have landed in you will meet many familiar figures. Thwart the tedious ramblings of the Rules Lawyer. Berate the Closet Gamer as he is forced to make yet another excuse to his girlfriend. And find subtle cruel ways to torment the Gamer's Little Brother as you force the GM to finally give up all hope and quit the game.&lt;br/&gt;&lt;br/&gt;</description>
+
+							<thumbnail>https://cf.geekdo-images.com/uNnvzbh98O3viFfK5GySFQ__thumb/img/-ZULiVAXfzCz6QfoqmfcKOU7XTA=/fit-in/200x150/filters:strip_icc()/pic203221.jpg</thumbnail>
+				<image>https://cf.geekdo-images.com/uNnvzbh98O3viFfK5GySFQ__original/img/RfIyBGMbI84vODS_dZ0xBcT78V0=/0x0/filters:format(jpeg)/pic203221.jpg</image>
+						
+												<boardgamepublisher objectid="4525">Alleged Enterprises</boardgamepublisher>
+															<boardgamedesigner objectid="9796">Jason Frey</boardgamedesigner>
+															<boardgamecategory objectid="1079">Humor</boardgamecategory>
+						
+			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll>
+
+			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll>
+
+
+			
+			
+						<statistics page="1">
+												<ratings >
+					<usersrated>10</usersrated>
+					<average>4.1</average>
+					<bayesaverage>0</bayesaverage>
+					
+					<ranks>
+							
+														<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												
+											</ranks>
+					
+					<stddev>2.16564</stddev>
+					<median>0</median>
+					<owned>12</owned>
+					<trading>0</trading>
+					<wanting>0</wanting>
+					<wishing>1</wishing>
+					<numcomments>6</numcomments>
+					<numweights>3</numweights>
+					<averageweight>1.3333</averageweight>
+				</ratings>
+															</statistics>
+		
+		
+				
+		</boardgame>
+	</boardgames>

@@ -3,9 +3,11 @@ import requests
 import xml.etree.ElementTree as ET
 import pandas as pd
 import numpy
+import sys
 
-number_of_games_start = 20001
-number_of_games_end = 30000
+startdata = sys.argv[1]
+number_of_games_start = int(sys.argv[1])
+number_of_games_end = int(sys.argv[2])
 search_categories = ['objectname', 'baverage', 'minplayers', 'maxplayers', 'playingtime','category','aweight']
 parse_array = []
 
@@ -15,27 +17,24 @@ def loadGame(id):
     url = 'https://boardgamegeek.com/xmlapi/game/' + str(id) + '&stats=1'
   
     # creating HTTP response object from given url
-    resp = requests.get(url)
-    
-    if resp.status_code == 200:
-    # saving the xml file
-        with open('bgg.xml', 'ab') as f:
-            
+    try:
+        resp = requests.get(url)
+        # saving the xml file
+        with open('xmls/bgg'+ str(number_of_games_start) + '-' + str(number_of_games_end) + '.xml', 'ab') as f:
+
             content = resp.content
-            
+                
             if(id != number_of_games_start):
                 content = content[70:]
-            
+                
             if(id != number_of_games_end):
                 content = content[:-15]
-            
+                
             #print(content)
             f.write(content)
-        
-        # with open('bgg2.xml', 'ab') as f:
-            
-        #     content = resp.content
-        #     f.write(content)
+            print("game",id,"added")
+    except requests.exceptions.RequestException as e:
+        print("game",id,"couldn't be added")
           
   
 def parseXML(xmlfile):
@@ -100,24 +99,21 @@ def parseXML(xmlfile):
       
 def main():
     #clears the bgg.xml files
-    bgg = open("bgg.xml", "w")
+    bgg = open('xmls/bgg'+ str(number_of_games_start) + '-' + str(number_of_games_end) + '.xml', "w")
     bgg.close()
-    # bgg2 = open("bgg2.xml", "w")
-    # bgg2.close()
 
     # load rss from web to update existing xml file
     for n in range(number_of_games_start,number_of_games_end + 1):
         loadGame(n)
-        print('Game',n,'added')
-  
-    tree = ET.parse('bgg.xml')
+
+    tree = ET.parse('xmls/bgg'+ str(number_of_games_start) + '-' + str(number_of_games_end) + '.xml')
     root = tree.getroot()
     # id = int(root[0].attrib['objectid'])
     # print(hasattr(root[0][7],'primary'))
     # print('primary' in root[0][7].attrib)
     
     # parse xml file
-    parse_array = parseXML('bgg.xml')
+    parse_array = parseXML('xmls/bgg'+ str(number_of_games_start) + '-' + str(number_of_games_end) + '.xml')
     
     # dataframe = pd.DataFrame(parse_array) 
     # dataframe.to_csv(r"bgg_csv.csv")
@@ -129,6 +125,7 @@ def main():
         newarray = csv.writer(my_csv,delimiter=',')
         newarray.writerows(parse_array)
     
+    print('parse_test successful from',number_of_games_start,'to',number_of_games_end)
     
       
 if __name__ == "__main__":
